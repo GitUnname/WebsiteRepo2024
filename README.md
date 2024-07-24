@@ -1,2 +1,2 @@
 # WebsiteRepo2024
-this some info
+Это небольшое тестовое приложение.
